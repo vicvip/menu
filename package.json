@@ -2,7 +2,7 @@
   "name": "@vicvip/menu",
   "version": "1.0.0",
   "description": "menu, submenu, menusection",
-  "main": "@types/common.menu",
+  "main": "@types/common.menu/index.d.ts",
   "types": "@types/common.menu/index.d.ts",
   "scripts": {
     "build": "tsc"
